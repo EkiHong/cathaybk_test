@@ -1,7 +1,6 @@
 import pytest
 
 env = None
-lang = None
 
 
 def pytest_addoption(parser):
