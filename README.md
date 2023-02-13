@@ -2,7 +2,7 @@
 
 Following command to execute cathaybank_test
 
-``pytest --ENV=qa testcase/test.py``
+``pytest --ENV=qa testcase/test.py`` or ``python3 -m pytest -s --ENV=qa testcase/test.py``
 
 Device relative setting in 
 
